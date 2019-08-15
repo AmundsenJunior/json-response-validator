@@ -1,4 +1,4 @@
-# json-response-validation
+# json-response-validator
 
 ## The Problem
 
