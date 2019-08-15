@@ -1,6 +1,6 @@
-# JSON code challenge
+# json-response-validation
 
-## The challenge
+## The Problem
 
 Assume you have sent an HTTP GET Request to an API. The API responds with a JSON payload.
 Your job is to determine if that payload matches a given pattern.
@@ -20,4 +20,4 @@ Two solutions are provided here:
 A third solution involving the `reflect` and `mapstructure` packages is 
 [outlined on StackOverflow](https://stackoverflow.com/questions/26744873/converting-map-to-struct/26746461).
 
-For additional reference, the challenge was [originally attempted in Python](./challenge_in_python.py).
+For additional reference, this script was [originally attempted in Python](./json-validator.py).
